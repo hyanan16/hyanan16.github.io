@@ -1,0 +1,31 @@
+experiences:
+
+- place: "Genentech"
+  time: "Summer 2024"
+  title: "Research Intern - gRED Regev Lab / gCS BRAID Group"
+  subtitle: "Mentor: Dr. Masatoshi Uehara"
+  category: "work"
+
+- place: "Texas A&M University"
+  time: "2021 - now"
+  title: "Ph.D. Student, Department of Computer Science & Engineering"
+  subtitle: "DIVE Lab, Advisor: Dr. Shuiwang Ji"
+  category: "Education"
+
+  - place: "National University of Singapore"
+  time: "Summer 2020"
+  title: "Research Assistant, Department of Computer Science"
+  subtitle: "Advisor: Dr. Wei Tsang Ooi"
+  category: "work"
+
+- place: "RMIT University"
+  time: "Spring 2020"
+  title: "Research Intern, School of Engineering"
+  subtitle: "Mentor: Dr. Jonathan Tran"
+  category: "work"
+
+- place: "Tsinghua University"
+  time: "2017 - 2021"
+  title: "B.E. Student, Department of Electronic Engineering"
+  category: "Education"
+
