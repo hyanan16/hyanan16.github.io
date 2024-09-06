@@ -270,6 +270,13 @@ title: Home
         <p>{{ sv.venue }} <i style="float:right;"> {{ sv.year }}</i></p>
         {% endfor %}
     </div>
+    <h5>Organizer & Program Chair</h5>
+    <div class="paper">
+        {% for sv in site.data.services.organizers %}
+        <p>{{ sv.venue }}</p>
+        {% endfor %}
+        </dive>
+    </div>
     <h5>Program Committee Member & Reviewer</h5>
     <div class="paper">
         {% for sv in site.data.services.reviewers %}

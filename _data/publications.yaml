@@ -62,6 +62,38 @@
 pubs:
   - year: 2024
     papers:
+      - title: "Geometry Informed Tokenization of Molecules for Language Model Generation"
+        authors: "<b>Xiner Li</b>, Limei Wang, Youzhi Luo, Carl Edwards, Shurui Gui, Yuchao Lin, Heng Ji, Shuiwang Ji"
+        venue: "arXiv preprint arXiv:2408.10120"
+        paper_pdf: "https://arxiv.org/abs/2408.10120"
+        img: "/assets/imgs/mol_llm.png"
+        selected: y
+
+      - title: "Fragment and Geometry Aware Tokenization of Molecules for Structure-Based Drug Design Using Language Models"
+        authors: "Cong Fu*, <b>Xiner Li*</b>, Blake Olson, Heng Ji, Shuiwang Ji"
+        venue: "arXiv preprint arXiv:2408.09730"
+        paper_pdf: "https://arxiv.org/abs/2408.09730"
+        img: "/assets/imgs/SBDD.png"
+        selected: y
+
+      - title: "Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding"
+        authors: "<b>Xiner Li</b>, Yulai Zhao, Chenyu Wang, Gabriele Scalia, Gokcen Eraslan, Surag Nair, Tommaso Biancalani, Aviv Regev, Sergey Levine, Masatoshi Uehara"
+        venue: "arXiv preprint arXiv:2408.08252"
+        paper_pdf: "https://arxiv.org/abs/2408.08252"
+        code: "https://github.com/masa-ue/SVDD"
+        code_star: "https://img.shields.io/github/stars/masa-ue/SVDD?style=social"
+        img: "/assets/imgs/SVDD.png"
+        selected: y
+
+      - title: "Eliminating Position Bias of Language Models: A Mechanistic Approach"
+        authors: "Ziqi Wang, Hanlin Zhang, <b>Xiner Li</b>, Kuan-Hao Huang, Chi Han, Shuiwang Ji, Sham M Kakade, Hao Peng, Heng Ji"
+        venue: "arXiv preprint arXiv:2407.01100"
+        paper_pdf: "https://arxiv.org/abs/2407.01100"
+        code: "https://github.com/wzq016/PINE"
+        code_star: "https://img.shields.io/github/stars/wzq016/PINE?style=social"
+        img: "/assets/imgs/PINE.png"
+        selected: y
+
       - title: "Graph Structure and Feature Extrapolation for Out-of-Distribution Generalization"
         authors: "<b>Xiner Li</b>, Shurui Gui, Youzhi Luo, Shuiwang Ji"
         venue: "Forty-first International Conference on Machine Learning (<b>ICML</b>), 2024"
